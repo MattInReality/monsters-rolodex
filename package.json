@@ -2,7 +2,7 @@
   "name": "01-monsters-roladex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MattInReality.github.io/monsters_rolladex",
+  "homepage": "https://MattInReality.github.io/monsters_rolodex",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
